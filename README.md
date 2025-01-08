@@ -17,6 +17,6 @@ Desarrollador web con experiencia en proyectos frontend y backend. Me enfoco en 
 
 <p align="center">
   <a href="https://github.com/JahirMM">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JahirMM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JahirMM&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
