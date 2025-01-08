@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hola, soy Jahir Machuca </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!-- <img src="banner.jpg" style="width: 100%; height: 300px;" /> -->
-
 ![Banner de jahir machuca](banner.png)
 Desarrollador web con experiencia en proyectos frontend y backend. Me enfoco en construir soluciones funcionales que faciliten la experiencia del usuario. Durante mis prácticas, trabajé en el diseño e implementación de interfaces efectivas, sistemas accesibles y funcionalidades útiles, destacando mi compromiso con el aprendizaje continuo y el trabajo colaborativo.
 
@@ -16,6 +14,9 @@ Desarrollador web con experiencia en proyectos frontend y backend. Me enfoco en 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;Estadisticas del repositorio
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahirMM&layout=compact&cache_seconds=86400)
+<p align="center">
+  <a href="https://github.com/JahirMM">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JahirMM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
